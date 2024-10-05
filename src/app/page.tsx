@@ -18,8 +18,8 @@ export default function Home() {
                   alt="femme-devoilee-logo"
                 />
               </div>
-              <h1 className="relative w-fit tracking-tight text-balance font-bold font-poiret !leading-tight text-pink-950 text-5xl md:text-6xl lg:text-7xl">
-                FemmeDévoilée
+              <h1 className="relative w-fit tracking-tight text-balance font-bold font-poiret !leading-tight text-5xl md:text-6xl lg:text-7xl">
+                Femme<span className="text-pink-950">Dévoilée</span>
               </h1>
               <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere
